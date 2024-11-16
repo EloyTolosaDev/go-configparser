@@ -9,7 +9,7 @@ import (
 
 	. "gopkg.in/check.v1"
 
-	"github.com/bigkevmcd/go-configparser"
+	"github.com/EloyTolosaDev/go-configparser"
 )
 
 func Test(t *testing.T) { TestingT(t) }

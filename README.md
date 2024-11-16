@@ -1,4 +1,4 @@
-# go-configparser [![Go](https://github.com/bigkevmcd/go-configparser/actions/workflows/go.yml/badge.svg)](https://github.com/bigkevmcd/go-configparser/actions/workflows/go.yml)
+# go-configparser [![Go](https://github.com/EloyTolosaDev/go-configparser/actions/workflows/go.yml/badge.svg)](https://github.com/EloyTolosaDev/go-configparser/actions/workflows/go.yml)
 Go implementation of the Python ConfigParser class.
 
 This can parse Python-compatible ConfigParser config files, including support for option interpolation.
@@ -6,7 +6,7 @@ This can parse Python-compatible ConfigParser config files, including support fo
 ## Setup
 ```Go
   import (
-    "github.com/bigkevmcd/go-configparser"
+    "github.com/EloyTolosaDev/go-configparser"
   )
 ```
 
@@ -83,7 +83,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/bigkevmcd/go-configparser"
+	"github.com/EloyTolosaDev/go-configparser"
 )
 
 func main() {

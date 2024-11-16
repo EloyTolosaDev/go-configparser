@@ -1,5 +1,5 @@
-github.com/bigkevmcd/go-configparser v0.0.0-20240808124832-fc81059ea0bd h1:MsTk4yo6KVYdulsDscuH4AwiZN1CyuCJAg59EWE7HPQ=
-github.com/bigkevmcd/go-configparser v0.0.0-20240808124832-fc81059ea0bd/go.mod h1:vzEQfW+A1T+AMJmTIX+SXNLNECHOM7GEinHhw0IjykI=
+github.com/EloyTolosaDev/go-configparser v0.0.0-20240808124832-fc81059ea0bd h1:MsTk4yo6KVYdulsDscuH4AwiZN1CyuCJAg59EWE7HPQ=
+github.com/EloyTolosaDev/go-configparser v0.0.0-20240808124832-fc81059ea0bd/go.mod h1:vzEQfW+A1T+AMJmTIX+SXNLNECHOM7GEinHhw0IjykI=
 github.com/kr/pretty v0.2.1 h1:Fmg33tUaq4/8ym9TJN1x7sLJnHVwhP33CNkpYV/7rwI=
 github.com/kr/pretty v0.2.1/go.mod h1:ipq/a2n7PKx3OHsz4KJII5eveXtPO4qwEXGdVfWzfnI=
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=

@@ -6,8 +6,8 @@ import (
 
 	. "gopkg.in/check.v1"
 
-	"github.com/bigkevmcd/go-configparser"
-	"github.com/bigkevmcd/go-configparser/chainmap"
+	"github.com/EloyTolosaDev/go-configparser"
+	"github.com/EloyTolosaDev/go-configparser/chainmap"
 )
 
 type customInterpolator struct {
